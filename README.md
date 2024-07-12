@@ -1,6 +1,6 @@
 # Rock Paper Scissors Lizard Spock
 
-An implementation of the classic game "Rock Paper Scissors Lizard Spock" using PyQt5 in Python.<br>
+An implementation of the classic game "Rock Paper Scissors Lizard Spock" using PyQt5 in Python.<br><br>
 " it's very simple. Scissors cuts paper, paper covers rock, rock crushes Lizard, Lizard poisons Spock, Spock smashes scissors, scissors decapitates Lizard, Lizard eats paper, paper disproves Spock, Spock vaperizes rock, and as it always has, rock crushes scissors. "
 
 ## Overview
